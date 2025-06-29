@@ -39,6 +39,13 @@ const members = {
                 description: 'Một đoạn video với nội dung "Thanh xuân của tôi ở HueIC"',
                 image: 'assets/img/project/sanpham1.jpg',
                 media: 'project/sanpham1.mp4'
+            },
+            {
+                id: 6,
+                title: 'Sản phẩm 2',
+                description: 'Một đoạn video với nội dung "Nụ cười của cậu năm đó làm tớ nhớ thương nhớ cả thanh xuân"',
+                image: 'assets/img/project/sanpham2.jpg',
+                media: 'project/sanpham2.mp4'
             }
         ]
     },
