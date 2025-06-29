@@ -23,7 +23,7 @@ const members = {
                 id: 3,
                 title: 'Tuyển sinh 2025',
                 description: 'Clip tuyển sinh do Nguyễn Lê Trần Minh làm đạo diễn hình ảnh',
-                image: 'assets/img/project/tuyen-sinh-2025.png',
+                image: 'assets/img/project/tuyen-sinh-2025.jpg',
                 media: 'project/video-tot-nghiep-2025.mp4'
             },
             {
