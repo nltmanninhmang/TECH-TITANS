@@ -2,8 +2,8 @@ const members = {
     'nguyenletranminh': {
         name: 'Nguyễn Lê Trần Minh',
         image: 'assets/img/nguyenletranminh.jpg',
-        totalProjects: 15,
-        leaderProjects: 10,
+        totalProjects: 10,
+        leaderProjects: 4,
         projects: [
             {
                 id: 1,
@@ -36,16 +36,44 @@ const members = {
             {
                 id: 5,
                 title: 'Sản phẩm 1',
-                description: 'Một đoạn video với nội dung "Thanh xuân của tôi ở HueIC"',
+                description: 'Một đoạn video với nội dung "Thanh xuân của tôi ở HueIC".',
                 image: 'assets/img/project/sanpham1.jpg',
                 media: 'project/sanpham1.mp4'
             },
             {
                 id: 6,
                 title: 'Sản phẩm 2',
-                description: 'Một đoạn video với nội dung "Nụ cười của cậu năm đó làm tớ nhớ thương nhớ cả thanh xuân"',
+                description: 'Một đoạn video với nội dung "Nụ cười của cậu năm đó làm tớ nhớ thương nhớ cả thanh xuân".',
                 image: 'assets/img/project/sanpham2.jpg',
                 media: 'project/sanpham2.mp4'
+            },
+            {
+                id: 7,
+                title: 'Sự ra đời của Đội truyền thông',
+                description: 'Một đoạn video với nội dung "Sự ra đời của đội truyền thông HueIC CEE Team" - HueIC CEE Team là viết tắt của từ HueIC Communication Entertainment Executive Team, Đội được thành lập chính thức vào ngày 20/8/2024. Một phần tư liệu trong đoạn video do Uỷ viên BĐH - Phó trưởng ban truyền thông Nguyễn Lê Trần Minh quay chụp và cung cấp.',
+                image: 'assets/img/project/su-ra-doi-cua-doi-truyen-thong.jpg',
+                media: 'project/su-ra-doi-cua-doi-truyen-thong.mp4'
+            },
+            {
+                id: 8,
+                title: 'Đại lễ 30/4 - 1/5 🇻🇳',
+                description: 'Một đoạn video với nội dung "Sự ra đời của đội truyền thông HueIC CEE Team" do Nguyễn Lê Trần Minh làm đạo diễn hình ảnh.',
+                image: 'assets/img/project/30thang4-1thang5.jpg',
+                media: 'project/30thang4-1thang5.mp4'
+            },
+            {
+                id: 9,
+                title: 'Lịch sử trường CĐCN Huế',
+                description: 'Một đoạn video với nội dung "Lịch sử của trường Cao đẳng Công nghiệp Huế qua các thời kì" do Nguyễn Lê Trần Minh cùng với thầy Nguyễn Quang Đức làm đạo diễn hình ảnh và edit.',
+                image: 'assets/img/project/lich-su-hueic.jpg',
+                media: 'project/lich-su-hueic.mp4'
+            },
+            {
+                id: 10,
+                title: 'Công nghệ chăm sóc sắc đẹp',
+                description: 'Một đoạn video recap với nội dung "Công nghệ chăm sóc sắc đẹp" của Hàn Quốc do Nguyễn Lê Trần Minh cùng làm đạo diễn hình ảnh.',
+                image: 'assets/img/project/cham-soc-sac-dep.jpg',
+                media: 'project/cham-soc-sac-dep.mp4'
             }
         ]
     },
