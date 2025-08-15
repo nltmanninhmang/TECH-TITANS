@@ -9,7 +9,7 @@ const members = {
                 id: 1,
                 title: 'Phim ngắn "Đứa Con Nghịch Tử"',
                 description: ' Đứa con nghịch tử là một bộ phim ngắn đầy cảm xúc, mang đến cái nhìn sâu sắc về thực trạng xã hội và đời sống của giới trẻ hiện nay. Kịch bản phim được nhóm em xây dựng dựa trên những tình huống có thật trong cuộc sống, với mục tiêu phản ánh những vấn đề nhức nhối như đạo đức, tình cảm gia đình và những hệ lụy nghiêm trọng từ việc sa ngã theo bạn xấu.',
-                image: 'assets/img/project/dua-con-nghich-tu.jpg',
+                image: 'assets/img/project/duacon-nghich-tu.jpg',
                 media: 'project/dua-con-nghich-tu.mp4'
             },
             {
